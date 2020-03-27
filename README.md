@@ -2,7 +2,7 @@
 
 ## Youtube Channel: HackerHansen 
 
-### Video: (I will put this here later) 
+### Video: https://youtu.be/WNaZm6CXWnQ 
 
 This is a simple aimbot script coded in AHK. To run it, you must download autohotkey from https://www.autohotkey.com/ 
 
