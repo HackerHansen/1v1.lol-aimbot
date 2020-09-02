@@ -19,7 +19,7 @@ SetControlDelay, -1
 
 CoordMode, Mouse, Screen 
 CoordMode, Pixel, Screen 
-color = 0x1E2962
+color = 0x433C6D
 MidX := A_ScreenWidth / 2 
 MidY := A_ScreenHeight / 2 
 Triggerbot = 1 
