@@ -24,7 +24,7 @@ MidX := A_ScreenWidth / 2
 MidY := A_ScreenHeight / 2 
 Triggerbot = 1 
 Sense = 2
-
+Sense = 2
 ~RButton::
 {
 	While GetKeyState("RButton"){
